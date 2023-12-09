@@ -13,7 +13,7 @@ This repository showcases machine learning applications in oil and gas reservoir
 ## Machine Learning Experimentation
 
 1. **Rerun the Model Without Standardization**: Observe the impact on results.
-2. **Try Different ML Algorithms**: Experiment with SVMs, Random Forest, KNN, and Logistic Regression.
+2. **Try Different ML Algorithms**: Experiment with SVMs, Random Forest, KNN, and Gradient Boosting.
 3. **Troubleshoot the Code**: Resolve errors using provided steps.
 4. **Show Results & Insights**: Interpret results from different ML models.
 5. **Potential Limitations and Challenges**: Reflect on challenges in applying ML.
